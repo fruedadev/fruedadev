@@ -7,7 +7,7 @@ Sr. Software Engineer
 A developer by profession, automating things my passion.
 
 * 🌍  I'm currently based in Madrid, Spain
-* ✉️  You can contact me at [frueda.dev@protonmail.com](mailto:frueda@protonmail.com)
+* ✉️  You can contact me at [contact@franciscorueda.dev](mailto:contact@franciscorueda.dev)
 * 🧠  I'm learning Haskell
 * 🤝  I'm open to collaborating on interesting projects
 
